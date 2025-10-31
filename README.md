@@ -8,7 +8,7 @@ Primeira versão jogável a fazenda feito em Unity.
 
 ## 🚀 Como jogar
 1. quando clicar no link acima baixe o arquivo Unity.exe.
-2. Extraia o `JOGO.rar` em uma pasta no seu computador.
+2. Extraia o `ALEX.rar` em uma pasta no seu computador.
 3. Clique em **Happy Harvest - 2D Sample Projeto.exe** para iniciar o jogo.
 4. 
 ## 🚀 INSTRUÇÔES
