@@ -30,7 +30,7 @@ D → Move para direita ➡️
 
 S → Move para trás ⬇️
 
-w → Move pa frente 🔫
+w → Move pa frente ⬆️
 
 
 ## ℹ️ Informações
